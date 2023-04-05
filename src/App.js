@@ -1,9 +1,9 @@
-import Card from './components/Card';
+import Login from "./components/Login";
 
 function App() {
   return (
     <div>
-      <Card />
+      <Login />
     </div>
   )
 }
